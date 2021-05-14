@@ -1,0 +1,49 @@
+.row{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border: 2px solid #000;
+	margin: 1%;
+	padding: 1%;
+}
+
+.cardbody1{
+	border: 2px solid #ddd;
+	margin : 1%;
+	padding: 1%;
+	text-align: center;
+	font-size: 15px;
+	border-radius: 10%;
+
+
+}
+
+img{
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	text-align: center;
+	color: #AB138F;
+	font-family: inherit;
+}
+
+s{
+	color: red;
+}
+
+p{
+	color: green;
+}
+u{
+	font-size: 20px;
+	font-family: inherit;
+}
+
+button{
+	background-color: green;
+	size: 20%;
+}

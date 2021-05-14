@@ -1,0 +1,32 @@
+.card{
+	display: flex;
+	padding: 3%;
+
+}
+img{
+	width: 300%;
+	margin-left: 100%;
+	margin-right: auto;
+	/*border-radius: 50%;*/
+	border: 2px solid;
+}
+.card-view{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
+}
+}
+.card2,.card3,.card4{
+
+	margin: 1%;
+	padding: 1%;
+	font-size: 100px;
+	text-align: center;
+	/*border-radius: 10%;*/
+}
+.img1{
+	margin: 1%;
+	width: 20%;
+	margin-left: 50%;
+}

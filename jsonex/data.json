@@ -1,0 +1,29 @@
+{
+	"details":[
+		{
+			"name":"Oppo F17",
+			"image":"f17.png",
+			"price":"18499",
+			"offerprice":"18000"
+		},
+		{
+			"name":"Oppo F17 pro",
+			"image":"f17pro.png",
+			"price":"18499",
+			"offerprice":"18000"
+		},
+		{
+			"name":"Oppo F15",
+			"image":"f15.png",
+			"price":"15000",
+			"offerprice":"14000"
+		},
+		{
+			"name":"OppoF17 Diwali",
+			"image":"oppodivali.png",
+			"price":"24999",
+			"offerprice":"24000"
+		}
+
+	]
+}
